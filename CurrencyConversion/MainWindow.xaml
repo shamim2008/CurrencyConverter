@@ -13,6 +13,9 @@
         <Label x:Name="label_Copy" Content="New Currency :" HorizontalAlignment="Left" Margin="78,109,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="TxtResult" HorizontalAlignment="Left" Height="26" Margin="182,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" Background="White" IsReadOnly="True" FontWeight="Bold" Width="163" FontSize="14"/>
         <Label x:Name="label_Copy1" Content="Exchange Rate :" HorizontalAlignment="Left" Margin="78,165,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="Design by Shamim Hossain" HorizontalAlignment="Left" Foreground="RosyBrown" Margin="288,272,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblUpdateDate" Content="" HorizontalAlignment="Left" FontWeight="Bold" Margin="178,198,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblUpdateDate_Copy" Content="Updated on :"  HorizontalAlignment="Left" Margin="92,198,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
