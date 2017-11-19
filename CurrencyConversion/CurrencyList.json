@@ -1,0 +1,19 @@
+﻿{
+  "currency": {
+    "Canadian Dollar (CAD)": "CAD",
+    "Swiss Franc (CHF)": "CHF",
+    "Pound Sterling (GBP)": "GBP",
+    "US Dollar (USD)": "USD",
+    "Japanese Yen (JPY)": "JPY",
+    "Bulgarian Lev (BGN)": "BGN",
+    "Brazilian Real (BRL)": "BRL",
+    "Australian Dollar (AUD)": "AUD",
+    "Yuan Renminbi (CNY)": "CNY",
+    "Singapore Dollar (SGD)": "SGD",
+    "Korean Won (KRW)": "KRW",
+    "Hungary Forint (HUF)": "HUF",
+    "Malaysian Ringgit (MYR)": "MYR", 
+    "EURO (EUR)" :  "EUR" 
+  }
+
+}
